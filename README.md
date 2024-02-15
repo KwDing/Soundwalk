@@ -4,7 +4,8 @@ This project researches the difference of popular music in different years.
 ## Example input and output
 [Input Example Audio](https://drive.google.com/file/d/1u-ISq0MavVGTvJJ-s9q86eGbxWoyu7SZ/view?usp=sharing)
 
-[Output Example Audio](https://drive.google.com/file/d/1mxuaco9S3LvHyfctxsuT5ycfdTNjO0-L/view?usp=sharing)
+https://github.com/KwDing/Soundwalk/assets/71970518/b565f273-3971-4f79-a676-965a2b3445d4
+
 
 ## Analysis
 ### I. Level
